@@ -1,7 +1,9 @@
+import "./style.css";
+
 const CardGame = () =>{
     return `
-        <article>
-            card Game        
+        <article class="card-game">
+            <img src="src/components/images/alura-pixel.svg">     
         </article>
     `
 }
